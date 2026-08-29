@@ -1,1 +1,1 @@
-let name = question("Qual seu nome: ")
+console.log("Ola mundo");
