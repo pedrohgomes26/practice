@@ -1,0 +1,5 @@
+{
+    "alunos": ["Gabriel", "Gustavo", "Henrique", "Thiago"],
+    "frequencia": [72, 89, 75, 97 ],
+    "notas": [4, 7, 6, 9]
+}
