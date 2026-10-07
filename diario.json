@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "João Silva",
+    "notas": [8.0, 7.5, 9.0],
+    "aulas_presentes": 38,
+    "total_aulas": 40
+  },
+  {
+    "nome": "Maria Santos",
+    "notas": [5.0, 6.5, 6.0],
+    "aulas_presentes": 32,
+    "total_aulas": 40
+  },
+  {
+    "nome": "Pedro Alves",
+    "notas": [9.0, 8.5, 9.5],
+    "aulas_presentes": 20,
+    "total_aulas": 40
+  }
+]
